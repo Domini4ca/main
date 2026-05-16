@@ -1,0 +1,113 @@
+#EXTM3U url-tvg="http://iptv-content.rv77.pw/epg.xml.gz"
+#EXTINF:0,Первый канал HD
+http://ru02.plinks-pile.su/128/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,НТВ HD
+http://ru02.plinks-pile.su/253/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Россия 1 HD
+http://ru02.plinks-pile.su/129/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Россия-24
+http://ru02.plinks-pile.su/302/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Москва 24
+http://ru02.plinks-pile.su/295/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,РБК-ТВ
+http://ru02.plinks-pile.su/316/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,ТВ Центр
+http://ru02.plinks-pile.su/334/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Мосфильм. Золотая коллекция
+http://ru02.plinks-pile.su/429/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Победа
+http://ru02.plinks-pile.su/3085/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Звезда
+http://ru02.plinks-pile.su/337/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Центральное телевидение
+http://ru02.plinks-pile.su/1295/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Ностальгия
+http://ru02.plinks-pile.su/313/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,НТВ-ХИТ
+http://ru02.plinks-pile.su/328/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,РОДНОЕ КИНО
+http://ru02.plinks-pile.su/288/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Наше новое кино
+http://ru02.plinks-pile.su/289/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КИНОСЕМЬЯ
+http://ru02.plinks-pile.su/274/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Дом Кино
+http://ru02.plinks-pile.su/333/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Пятый канал
+http://ru02.plinks-pile.su/338/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Россия К
+http://ru02.plinks-pile.su/5099/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Русский детектив
+http://ru02.plinks-pile.su/277/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,День Победы
+http://ru02.plinks-pile.su/20807/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,MiniMax Детектив U.S.S.R
+http://ru02.plinks-pile.su/20731/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Советская киноклассика HD
+http://ru02.plinks-pile.su/20797/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Патриот
+http://ru02.plinks-pile.su/20796/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Дом Кино Премиум HD
+http://ru02.plinks-pile.su/108/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Русский роман
+http://ru02.plinks-pile.su/142/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Star Cinema HD
+http://ru02.plinks-pile.su/17437/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Русский бестселлер
+http://ru02.plinks-pile.su/276/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,РЕН ТВ
+http://ru02.plinks-pile.su/5106/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,ОТР
+http://ru02.plinks-pile.su/5501/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Мир
+http://ru02.plinks-pile.su/1139/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Еврокино
+http://ru02.plinks-pile.su/275/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,.black
+http://ru02.plinks-pile.su/227/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,.sci-fi
+http://ru02.plinks-pile.su/228/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Europa Plus TV
+http://ru02.plinks-pile.su/280/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Русский Иллюзион
+http://ru02.plinks-pile.su/294/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,СТС
+http://ru02.plinks-pile.su/292/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,ТНВ Планета
+http://ru02.plinks-pile.su/5500/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,ТНТ
+http://ru02.plinks-pile.su/5001/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КИНОМИКС
+http://ru02.plinks-pile.su/273/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КИНОСВИДАНИЕ
+http://ru02.plinks-pile.su/271/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КИНОХИТ
+http://ru02.plinks-pile.su/272/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Пятница!
+http://ru02.plinks-pile.su/5300/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КИНОКОМЕДИЯ
+http://ru02.plinks-pile.su/281/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,ТВ-3
+http://ru02.plinks-pile.su/336/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Продвижение
+http://ru02.plinks-pile.su/6759/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,360° Новости HD
+http://ru02.plinks-pile.su/6790/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Аппетитный HD
+http://ru02.plinks-pile.su/5169/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,МУЗ
+http://ru02.plinks-pile.su/324/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,RU.TV
+http://ru02.plinks-pile.su/5664/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Hollywood
+http://ru02.plinks-pile.su/5511/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,КТО ЕСТЬ КТО
+http://ru02.plinks-pile.su/282/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Авто Плюс
+http://ru02.plinks-pile.su/279/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Авто 24
+http://ru02.plinks-pile.su/315/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Матч! HD
+http://ru02.plinks-pile.su/255/index.m3u8?token=Wbn4F4TRQwK8mZ
+#EXTINF:0,Спас
+http://ru02.plinks-pile.su/5133/index.m3u8?token=Wbn4F4TRQwK8mZ
