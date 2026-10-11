@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://iptv-content.rv77.pw/epg.xml.gz"
 #EXTINF:0,Первый канал HD
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/128/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,НТВ HD
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/253/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,Россия 1 HD
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/129/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,Россия-24
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/302/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,Москва 24
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/295/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,РБК-ТВ
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/316/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,ТВ Центр
-http://ru02.plink-pile.ch/128/index.m3u8?token=937qP82ft9XK9H
+http://ru02.plinks-pile.su/334/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,Мосфильм. Золотая коллекция
 http://ru02.plinks-pile.su/429/index.m3u8?token=Wbn4F4TRQwK8mZ
 #EXTINF:0,Победа
